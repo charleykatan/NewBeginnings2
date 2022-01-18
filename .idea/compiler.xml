@@ -9,8 +9,11 @@
         <module name="PeerProgrammingExercises" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="PeerProgrammingExercises" target="11" />
     </bytecodeTargetLevel>
+=======
+>>>>>>> b07025d31d1b0aa526d03b8b9b9ed8c4792b37b1
   </component>
 </project>
